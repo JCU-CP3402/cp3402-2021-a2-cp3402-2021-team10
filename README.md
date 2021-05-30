@@ -1,0 +1,3 @@
+# cp3402-2021-a2-cp3402-2021-team10
+cp3402-2021-a2-cp3402-2021-team10 created by GitHub Classroom
+The Autism Support Group advocates for better services and support for those affected by Autism.The purpose of establishing this website is to help children with autism recover their health as soon as possible.The purpose of this website is to let more people understand the impact of autism on young people, and to guide parents on how to avoid the occurrence of autism when educating children.You can learn about the theme of the website here.You can learn about the deployment of the website here.You can learn about the site of the website here.
